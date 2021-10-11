@@ -25,7 +25,7 @@
   ##
   
  <div> 
-  <a href="https://mariessluwfltb.wixsite.com/ayura" target="_blank"><img src="https://camo.githubusercontent.com/daa1acc0e703740daff565902d6e577ee13fc999c683cef34e1b328fb651dfe8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70686f746f73686f702532302d2532333331413846462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d61646f626525323070686f746f73686f70266c6f676f436f6c6f723d7768697465" target="_blank"></a>
+  <a href="https://fairyayura.tumblr.com/" target="_blank"><img src="https://camo.githubusercontent.com/daa1acc0e703740daff565902d6e577ee13fc999c683cef34e1b328fb651dfe8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70686f746f73686f702532302d2532333331413846462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d61646f626525323070686f746f73686f70266c6f676f436f6c6f723d7768697465" target="_blank"></a>
   <a href="mailto:maria.marcelino@sou.unifal-mg.edu.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://open.spotify.com/user/mariesslu?si=ba85619ee55341ae" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
  
