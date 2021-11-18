@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Maria Luiza 👋
-- 🔭 Interesse em trabalhar com front-end.
+- 🔭 Trabalho com desenvolvimento web.
 - 🌱 Estudando Ciência da Computação.
 - 😄 Pronomes: Ela/Dela.
 - ⚡ Entusiasta de desenho e design gráfico.
