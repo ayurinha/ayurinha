@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Maria Luiza 👋
-- 🔭 Trabalho com desenvolvimento web.
+- 🔭 Trabalho com análise de sistemas.
 - 🌱 Estudando Ciência da Computação.
 - 😄 Pronomes: Ela/Dela.
 - ⚡ Entusiasta de desenho e design gráfico.
