@@ -28,8 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
   <a href="https://github.com/ayurinha">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayurinha&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
@@ -38,8 +36,6 @@
 </div>
 
 ---
-
-### 🛠️ Ferramentas & Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 🐘
@@ -56,8 +52,6 @@
 </div>
 
 ---
-
-### 📫 Onde me encontrar:
 
 <div>
   <a href="https://www.linkedin.com/in/maria-luiza-marcelino/" target="_blank">
